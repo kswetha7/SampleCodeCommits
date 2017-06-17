@@ -9,6 +9,12 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/*
+This is my first login application using servlets
+@Author Teja
+@Return param1 
+
+*/
 public class LoginApp extends HttpServlet{
 	
 	@Override
