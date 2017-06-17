@@ -15,6 +15,8 @@ This is my first login application using servlets
 @Return param1 param 2 param3
 @Result interger
 
+
+@Result set is a List of elemets that we are passing a=ewl';askdflj dsflj ;lhADLKFJ JKL
 */
 public class LoginApp extends HttpServlet{
 	
