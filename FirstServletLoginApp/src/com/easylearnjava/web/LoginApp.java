@@ -12,7 +12,8 @@ import javax.servlet.http.HttpServletResponse;
 /*
 This is my first login application using servlets
 @Author Teja
-@Return param1 
+@Return param1 param 2 param3
+@Result interger
 
 */
 public class LoginApp extends HttpServlet{
